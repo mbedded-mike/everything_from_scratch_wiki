@@ -30,10 +30,7 @@ The goal is to complete those steps while documenting everything of those and ma
 
 ## related\_repositories
 
-
-[git@github.com:TheMadMike/mmrv\_cpu.git](git@github.com:TheMadMike/mmrv\_cpu.git)
-
-
+[https://github.com/mbedded-mike/mmrv_cpu](https://github.com/mbedded-mike/mmrv_cpu)
 
 If any of those is empty, it means I'm still working on it or didn't start yet ;\]
 
